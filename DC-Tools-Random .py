@@ -1,5 +1,5 @@
-#Create By: MUMIT ISLAM HIMU
-#FaceBook: Mumit Islam
+#Create By: DC Azmir
+#FaceBook: fb/d.c.azmir
 #GitHub:https://github.com/dcazmir/DC-Tools.git
 #---------------------------------------------------------------------------#
 import os,sys,time,json,random,re,string,platform,base64,uuid
@@ -72,7 +72,7 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/MUMIT-404-CYBER')
+os.system('xdg-open https://github.com/dcazmir/DC-Tools-Random.git')
 logo = ("""
 \033[1;91m  ____    ____      _     _____ __  __  ___  ____  
 \033[1;92m |  _ \  / ___|    / \   |__  /|  \/  ||_ _||  _ \  
@@ -86,7 +86,7 @@ logo = ("""
  ┃ [✓] STATUS    \033[1;91m: \033[1;92mPersonal         ┃
  ┃ [✓] SYSTEM    \033[1;91m: \033[1;92mDATA & WIFI      ┃
  ┃ [✓] GITHUB    \033[1;91m: \033[1;92mgit/dcazmir      ┃
- ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mfb/d.c,aznir     ┃
+ ┃ [✓] FACEBOOK  \033[1;91m: \033[1;92mfb/d.c.aznir     ┃
  ┃ [✓] WHATSAPP  \033[1;91m: \033[1;92m+8801325794654   ┃
  ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛""")
 
