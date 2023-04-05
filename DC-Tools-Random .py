@@ -72,7 +72,7 @@ for xd in range(10000):
     f=random.randrange(1, 99)
     uaku2=(f'{a}{b}{c}{d}{e}{f}')
     ugen.append(uaku2)
-os.system('xdg-open https://github.com/dcazmir/DC-Tools-Random.git')
+os.system('xdg-open https://github.com/dcazmir')
 logo = ("""
 \033[1;91m  ____    ____      _     _____ __  __  ___  ____  
 \033[1;92m |  _ \  / ___|    / \   |__  /|  \/  ||_ _||  _ \  
