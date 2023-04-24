@@ -922,7 +922,7 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "4h".join(uuid)
   try:
-    httpCaht = requests.get('https://github.com/BRAND-LIMON/1K-BRAND-GIFT/blob/main/Bypass.txt').text
+    httpCaht = requests.get('https://github.com/dcazmir/DC-Tools-Random/blob/main/Key%20Approval.txt').text
     if id in httpCaht:
       print("\33[1;32mYour Key is Successfully Approved")
       print('\033[1;93mYour Key is Successfully Approved ')
